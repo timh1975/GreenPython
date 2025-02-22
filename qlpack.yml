@@ -2,5 +2,4 @@ library: false
 warnOnImplicitThis: false
 name: timh1975/greenpython
 version: 0.0.1
-dependencies:
-  codeql/python-all : "*"
+
